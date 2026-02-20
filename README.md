@@ -40,6 +40,6 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 
 ### 📫 Bana Ulaşın
 
-* **LinkedIn:** [linkedin.com/in/kullanıcıadın](https://linkedin.com/in/kullanıcıadın)
+* **LinkedIn:** [[linkedin.com/in/kullanıcıadın](https://www.linkedin.com/in/musap-elhelu)](https://linkedin.com/in/kullanıcıadın)
 * **E-posta:** [eposta@adresin.com]
 * **Motto:** "Karmaşık denklemleri koda, kodları çözüme dönüştür."
