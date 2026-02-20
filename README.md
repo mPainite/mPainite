@@ -41,5 +41,5 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 ### 📫 Bana Ulaşın
 
 * **LinkedIn:** [[linkedin.com/in/musap-elhelu](https://www.linkedin.com/in/musap-elhelu)]
-* **E-posta:** [eposta@adresin.com]
+* **E-posta:** [musap.elh07@gmail.com]
 * **Motto:** "Karmaşık denklemleri koda, kodları çözüme dönüştür."
