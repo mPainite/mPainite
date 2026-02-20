@@ -16,7 +16,7 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 
 ### 💻 Teknoloji Çantam
 
-* **Diller:** C#, C++, Python, HTML/CSS
+* **Diller:** C#, C++, Python, HTML/CSS/JS
 * **Araçlar & Frameworkler:** .NET (Windows Forms), Raylib, Git & GitHub
 
 ---
