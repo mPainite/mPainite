@@ -1,8 +1,8 @@
-# Selam! Ben [Adın] 👋
+# Selam! Ben Musap 👋
 
 ### Mühendislik Öğrencisi | Yazılım Geliştirici | Girişimci Adayı
 
-Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan bir mühendislik öğrencisiyim. Karmaşık problemleri matematik ve algoritma ile çözmeyi, yeni teknolojiler keşfetmeyi seviyorum. Şu sıralar rotamı **Almanya**'ya ve global projelere çevirmiş durumdayım.
+Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan bir mühendislik öğrencisiyim. Karmaşık problemleri matematik ve algoritma ile çözmeyi, yeni teknolojiler keşfetmeyi seviyorum.
 
 ---
 
@@ -10,7 +10,6 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 
 * **Yazılım:** C#, C++ ve Python üzerinde projeler geliştiriyorum.
 * **Oyun Geliştirme:** Raylib ve C++ ile oyun mantığı kurmaya bayılıyorum.
-* **Mühendislik & Fizik:** Devre analizi, elektronik ve diferansiyel denklemler ilgi alanımın merkezinde.
 * **Dil Yolculuğu:** Profesyonel hedeflerim için aktif olarak **Almanca** öğreniyorum. 🇩🇪
 
 ---
@@ -19,7 +18,6 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 
 * **Diller:** C#, C++, Python, HTML/CSS
 * **Araçlar & Frameworkler:** .NET (Windows Forms), Raylib, Git & GitHub
-* **Uzmanlık Alanları:** Algoritma Tasarımı, Nesne Yönelimli Programlama (OOP), Devre Analizi
 
 ---
 
@@ -33,8 +31,8 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 
 ### 📊 GitHub İstatistiklerim
 
-![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
+![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=mPainite&show_icons=true&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mPainite&layout=compact&theme=radical)
 
 ---
 
