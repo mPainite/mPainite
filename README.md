@@ -8,8 +8,8 @@ Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan 
 
 ### 🚀 Nelerle Uğraşıyorum?
 
-* **Yazılım:** C#, C++ ve Python üzerinde projeler geliştiriyorum.
-* **Oyun Geliştirme:** Raylib ve C++ ile oyun mantığı kurmaya bayılıyorum.
+* **Yazılım:** Html/CSS/JS ve Python üzerinde projeler geliştiriyorum.
+* **Oyun Geliştirme:** C#, C++ ve Raylib ile oyun mantığı kurmaya bayılıyorum.
 * **Dil Yolculuğu:** Profesyonel hedeflerim için aktif olarak **Almanca** öğreniyorum. 🇩🇪
 
 ---
