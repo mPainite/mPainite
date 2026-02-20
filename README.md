@@ -1,53 +1,43 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4799-9751-ad7ae24062ba.gif" width="100%" />
-</p>
+# Selam! Ben Musap 👋
 
-<h1 align="center">👾 Merhaba, Ben Arda ANDAÇ!</h1>
-<p align="center">🎓 Amasya Üniversitesi | Bilgisayar Mühendisliği (CENG)</p>
+### Mühendislik Öğrencisi | Yazılım Geliştirici | Girişimci Adayı
 
-<hr>
+Geleceği kod satırları ve devre şemaları arasında inşa etmeye çalışan bir mühendislik öğrencisiyim. Karmaşık problemleri matematik ve algoritma ile çözmeyi, yeni teknolojiler keşfetmeyi seviyorum.
 
-### 🚀 Hakkımda
+---
 
-Selamlar! Bir **Bilgisayar Mühendisliği** öğrencisi olarak algoritmalar, oyun mekanikleri ve yazılım mimarileri üzerine çalışmaktan keyif alıyorum. Şu an ana odağım **C#** ile profesyonel projeler geliştirmek olsa da, **C** ve **C++** ile de temel seviyede haşır neşirim. Ayrıca kariyer hedeflerim doğrultusunda **Almanya** yolculuğu için aktif olarak **Almanca** öğreniyorum.
+### 🚀 Nelerle Uğraşıyorum?
 
-* 🔭 **Şu an üzerinde çalıştığım proje:** **Zombiness** adlı Novel roman oyunu.
-* 🍎 **Öne Çıkan Diğer Projeler:** **ElmaDöngüsü** (2D Puzzle) ve **PathFinder** (Navigasyon Sistemi).
-* 🌱 **Öğrenmeye devam ettiklerim:** Advanced OOP, Design Patterns ve Game Physics.
-* 🎯 **Hedefim:** Hikaye derinliği olan ve mekaniksel olarak sağlam oyunlar geliştirmek.
-* 🎮 **Favori Oyun Türlerim:** RPG, Survival, Strategy.
+* **Yazılım:** C#, C++ ve Python üzerinde projeler geliştiriyorum.
+* **Oyun Geliştirme:** Raylib ve C++ ile oyun mantığı kurmaya bayılıyorum.
+* **Dil Yolculuğu:** Profesyonel hedeflerim için aktif olarak **Almanca** öğreniyorum. 🇩🇪
 
-<hr>
+---
 
-### 🛠 Tech Stack & Yetenekler
+### 💻 Teknoloji Çantam
 
-**Ana Silahlarım (Main Stack):**
+* **Diller:** C#, C++, Python, HTML/CSS
+* **Araçlar & Frameworkler:** .NET (Windows Forms), Raylib, Git & GitHub
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+---
 
-**Keşfettiklerim & Temeller:**
+### 📂 Öne Çıkan Projelerim
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* **🍎 ElmaDöngüsü (Apple Cycle):** C# Windows Forms ile geliştirdiğim, mantık ve UI detaylarına odaklandığım 2D puzzle oyunu.
+* **📍 PathFinder:** Yeni bir gezegen için tasarladığım, navigasyon ve rota optimizasyonu odaklı hackathon projem.
+* **🔐 Siber Güvenlik Çalışmaları:** Kriptanaliz ve zararlı yazılım mantığı üzerine yaptığım deneysel araştırmalar.
 
-<hr>
+---
 
-### 📈 GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mPainite&show_icons=true&theme=radical" alt="mPainite İstatistikleri" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPainite&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
-</p>
+![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=mPainite&show_icons=true&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mPainite&layout=compact&theme=radical)
 
-<hr>
+---
 
 ### 📫 Bana Ulaşın
 
-* **LinkedIn:** [linkedin.com/in/ardaandac](https://linkedin.com/in/ardaandac)
-* **E-posta:** [E-posta Adresin Buraya]
+* **LinkedIn:** [[linkedin.com/in/musap-elhelu](https://www.linkedin.com/in/musap-elhelu)]
+* **E-posta:** [musap.elh07@gmail.com]
+* **Motto:** "Karmaşık denklemleri koda, kodları çözüme dönüştür."
